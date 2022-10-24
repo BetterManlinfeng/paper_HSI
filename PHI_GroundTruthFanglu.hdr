@@ -1,0 +1,28 @@
+ENVI
+description = {
+  Create New File Result [Thu Jun 22 17:13:44 2017]}
+samples = 348
+lines   = 512
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 11
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 255,   0,  46, 139,  87, 255, 255,   0,
+   0, 255, 255, 255,   0, 255, 176,  48,  96, 160,  32, 240,   0,   0, 255,
+ 255, 127,  80}
+class names = {
+其他, 马尾松 [Masson pine], 竹林 [Bamboo forest], 
+ 茶树 [Tea plant], 芦苇 [Reed], 
+ 水稻 [Rice paddy], 红薯地 [Sweet potato], 
+ 香菜地 [Caraway], 荒草地 [Weed], 
+ 池塘 [Water], 建筑物/道路[Building/road]}
+byte order = 0
+map info = {UTM, 1.500, 1.500, 725357.073, 3507729.819, 2.2500000000e+000, 2.2500000000e+000, 50, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["WGS_1984_UTM_Zone_50N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",117.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ groundtruth map}
